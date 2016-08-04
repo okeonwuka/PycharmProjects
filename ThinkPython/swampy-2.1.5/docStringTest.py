@@ -1,6 +1,7 @@
 # Doc string for Polygon, arc and circle
-from TurtleWorld import *
 from math import *
+
+from TurtleWorld import *
 
 # For some reason we need to initialise TurtleWorld() otherwise
 # error

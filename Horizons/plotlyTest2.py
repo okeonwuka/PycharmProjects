@@ -1,6 +1,4 @@
 import plotly.plotly as py
-import plotly.tools as tls
-from plotly.graph_objs import Figure, Data, Layout
 
 # (1) Two lists of numbers
 x1 = [1, 2, 3, 5, 6]

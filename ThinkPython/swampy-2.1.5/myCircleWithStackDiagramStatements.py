@@ -1,7 +1,8 @@
 # Exercies 4.1.2
 
-from TurtleWorld import *
 from math import *
+
+from TurtleWorld import *
 
 # For some reason we need to initialise TurtleWorld() otherwise error
 world = TurtleWorld()

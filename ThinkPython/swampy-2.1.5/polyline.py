@@ -1,5 +1,4 @@
 from TurtleWorld import *
-from math import *
 
 # For some reason we need to initialise TurtleWorld() otherwise error
 world = TurtleWorld()

@@ -1,5 +1,5 @@
 import plotly.plotly as py
-from plotly.graph_objs import *
+
 # auto sign-in with credentials or use py.sign_in()
 trace1 = Scatter(
         x=[],

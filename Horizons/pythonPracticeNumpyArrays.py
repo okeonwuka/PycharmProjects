@@ -2,6 +2,7 @@
 # Numpy arrays are list-like objects intended for computational use.
 
 from pprint import pprint
+
 import numpy as np
 
 my_array = np.array([1, 2, 3])
