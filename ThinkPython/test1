@@ -1,0 +1,41 @@
+# Functions to be defined
+
+# Definition and uses
+def print_lyrics():
+    print("I go to lumberjack, and I;m okay")
+    print("I get what I want and I like what I get")
+
+def repeat_lyrics():
+    print_lyrics()
+    print_lyrics()
+
+#Parameters and arguments
+def print_twice(bruce):
+    print(bruce)
+    print(bruce)
+
+#variables and parameters are local
+def cat_twice(part1,part2):
+    cat = part1 + part2
+    print_twice(cat)
+
+
+
+
+
+# Test Functions
+print_lyrics()
+repeat_lyrics()
+print_twice('waited for tonight')
+
+line1 = 'baby you are too much';
+line2 = ' I love you';
+cat_twice(line1,line2)
+
+
+
+
+
+
+
+
