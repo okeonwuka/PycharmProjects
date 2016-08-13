@@ -2,67 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00b287ad-9f8f-482c-a739-19fbd003d3d8" name="Default" comment="third test&#10;">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/PycharmProjects.iml" afterPath="$PROJECT_DIR$/.idea/PycharmProjects.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Horizons/PlotlyStreamingPythonAPI1.py" afterPath="$PROJECT_DIR$/Horizons/PlotlyStreamingPythonAPI1.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Horizons/PlotlyStreamingPythonAPI2.py" afterPath="$PROJECT_DIR$/Horizons/PlotlyStreamingPythonAPI2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Horizons/plotlyHelp.py" afterPath="$PROJECT_DIR$/Horizons/plotlyHelp.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Horizons/plotlyTest2.py" afterPath="$PROJECT_DIR$/Horizons/plotlyTest2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Horizons/plotlytests.py" afterPath="$PROJECT_DIR$/Horizons/plotlytests.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Horizons/plottest.py" afterPath="$PROJECT_DIR$/Horizons/plottest.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Horizons/pythonPracticeDictionary.py" afterPath="$PROJECT_DIR$/Horizons/pythonPracticeDictionary.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Horizons/pythonPracticeFuntions.py" afterPath="$PROJECT_DIR$/Horizons/pythonPracticeFuntions.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Horizons/pythonPracticeLambdaFunction.py" afterPath="$PROJECT_DIR$/Horizons/pythonPracticeLambdaFunction.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Horizons/pythonPracticeList.py" afterPath="$PROJECT_DIR$/Horizons/pythonPracticeList.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Horizons/pythonPracticeListComprehension.py" afterPath="$PROJECT_DIR$/Horizons/pythonPracticeListComprehension.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Horizons/pythonPracticeLoopsEtAll.py" afterPath="$PROJECT_DIR$/Horizons/pythonPracticeLoopsEtAll.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Horizons/pythonPracticeNumpyArrays.py" afterPath="$PROJECT_DIR$/Horizons/pythonPracticeNumpyArrays.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Horizons/pythonPracticeStringManipulation.py" afterPath="$PROJECT_DIR$/Horizons/pythonPracticeStringManipulation.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Horizons/temp-plot.html" afterPath="$PROJECT_DIR$/Horizons/temp-plot.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson1/task1/hello_world.py" afterPath="$PROJECT_DIR$/PythonIntroduction/lesson1/task1/hello_world.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PythonIntroduction/test_helper.py" afterPath="$PROJECT_DIR$/PythonIntroduction/test_helper.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThinkPython/do_twice.py" afterPath="$PROJECT_DIR$/ThinkPython/do_twice.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThinkPython/grid.py" afterPath="$PROJECT_DIR$/ThinkPython/grid.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThinkPython/grid2.py" afterPath="$PROJECT_DIR$/ThinkPython/grid2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThinkPython/grid3.py" afterPath="$PROJECT_DIR$/ThinkPython/grid3.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThinkPython/grid4.py" afterPath="$PROJECT_DIR$/ThinkPython/grid4.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThinkPython/grid5.py" afterPath="$PROJECT_DIR$/ThinkPython/grid5.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThinkPython/right_justify.py" afterPath="$PROJECT_DIR$/ThinkPython/right_justify.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/allenDowneyPolygon1.py" afterPath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/allenDowneyPolygon1.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/alphabet.py" afterPath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/alphabet.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/canvas.eps" afterPath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/canvas.eps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/conditionalsAndRecursion1.py" afterPath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/conditionalsAndRecursion1.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/docStringTest.py" afterPath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/docStringTest.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/myCircleWithStackDiagramStatements.py" afterPath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/myCircleWithStackDiagramStatements.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/myStackDiagram.py" afterPath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/myStackDiagram.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/myarc.py" afterPath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/myarc.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/mycircle.py" afterPath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/mycircle.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/mycircle2.py" afterPath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/mycircle2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/mypolygon.py" afterPath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/mypolygon.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/mypolygon1.py" afterPath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/mypolygon1.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/mysquare1a.py" afterPath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/mysquare1a.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/mysquare1b.py" afterPath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/mysquare1b.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/mysquare2.py" afterPath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/mysquare2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/polygon.py" afterPath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/polygon.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/polyline.py" afterPath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/polyline.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/turtleFlowers.py" afterPath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/turtleFlowers.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/turtleFlowers2.py" afterPath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/turtleFlowers2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/turtlePies.py" afterPath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/turtlePies.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/turtlePies2.py" afterPath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/turtlePies2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/words.txt" afterPath="$PROJECT_DIR$/ThinkPython/swampy-2.1.5/words.txt" />
     </list>
-    <list id="f6c921dc-77ef-4f20-a206-bcb7699ecffb" name="Failed commit: Default" comment="third test">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Fraction.py" afterPath="$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Fraction.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/ListsPractice1.py" afterPath="$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/ListsPractice1.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/controlStructurePractice.py" afterPath="$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/controlStructurePractice.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/pg29_selfcheck_practice.py" afterPath="$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/pg29_selfcheck_practice.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/pythonClassesPractice.py" afterPath="$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/pythonClassesPractice.py" />
-    </list>
-    <list id="14f333c1-eb28-40b2-bb43-160017a275d7" name="Failed commit: Failed commit: Default" comment="third test">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/algorithmAnalysis.py" afterPath="$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/algorithmAnalysis.py" />
-    </list>
-    <list id="286d7a46-5c31-4992-bf4f-467b7866e6df" name="Failed commit: Default (2)" comment="third test">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThinkPython/test1" afterPath="$PROJECT_DIR$/ThinkPython/test1" />
-    </list>
+    <list id="f6c921dc-77ef-4f20-a206-bcb7699ecffb" name="Failed commit: Default" comment="third test" />
+    <list id="14f333c1-eb28-40b2-bb43-160017a275d7" name="Failed commit: Failed commit: Default" comment="third test" />
+    <list id="286d7a46-5c31-4992-bf4f-467b7866e6df" name="Failed commit: Default (2)" comment="third test" />
     <ignored path="PycharmProjects.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -72,7 +18,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -85,7 +30,7 @@
       <file leaf-file-name="pg29_selfcheck_practice.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/pg29_selfcheck_practice.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
@@ -95,7 +40,7 @@
       <file leaf-file-name="pythonClassesPractice.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/pythonClassesPractice.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state relative-caret-position="486">
               <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
@@ -105,7 +50,7 @@
       <file leaf-file-name="Fraction.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Fraction.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state relative-caret-position="198">
               <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
               <folding />
             </state>
@@ -115,8 +60,8 @@
       <file leaf-file-name="algorithmAnalysis.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/algorithmAnalysis.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.39426523">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="162">
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -146,10 +91,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1698" />
-    <option name="height" value="1068" />
+    <option name="y" value="24" />
+    <option name="width" value="1366" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -176,7 +120,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -197,11 +140,13 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="full.screen.before.presentation.mode" value="false" />
   </component>
@@ -411,29 +356,44 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00b287ad-9f8f-482c-a739-19fbd003d3d8" name="Default" comment="third test&#10;" />
+      <created>1470455188930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1470455188930</updated>
+    </task>
+    <servers />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1698" height="1068" extended-state="6" />
+    <frame x="0" y="24" width="1366" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20447671" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32764506" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25887743" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22298066" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2874584" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23206443" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884902" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22298066" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25887743" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32764506" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2874584" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -481,9 +441,17 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/algorithmAnalysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/pg29_selfcheck_practice.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
@@ -491,7 +459,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/pythonClassesPractice.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="486">
           <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding />
         </state>
@@ -499,7 +467,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Fraction.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="198">
           <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
           <folding />
         </state>
@@ -507,7 +475,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/algorithmAnalysis.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -515,7 +483,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/pg29_selfcheck_practice.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
@@ -523,7 +491,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/pythonClassesPractice.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="486">
           <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding />
         </state>
@@ -531,7 +499,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Fraction.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="198">
           <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
           <folding />
         </state>
@@ -539,7 +507,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/algorithmAnalysis.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -547,7 +515,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/pg29_selfcheck_practice.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
@@ -555,7 +523,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/pythonClassesPractice.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="486">
           <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding />
         </state>
@@ -563,31 +531,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Fraction.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/pg29_selfcheck_practice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/pythonClassesPractice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Fraction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="198">
           <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
           <folding />
         </state>
@@ -595,7 +539,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/algorithmAnalysis.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -603,7 +547,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/pg29_selfcheck_practice.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
@@ -611,7 +555,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/pythonClassesPractice.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="405">
           <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding />
         </state>
@@ -619,7 +563,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Fraction.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="165">
           <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
           <folding />
         </state>
@@ -627,7 +571,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/algorithmAnalysis.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -635,7 +579,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/pg29_selfcheck_practice.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
@@ -643,7 +587,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/pythonClassesPractice.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding />
         </state>
@@ -651,7 +595,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Fraction.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
           <folding />
         </state>
@@ -659,7 +603,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/algorithmAnalysis.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -667,7 +611,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/pg29_selfcheck_practice.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
@@ -675,7 +619,159 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/pythonClassesPractice.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Fraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/algorithmAnalysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/pg29_selfcheck_practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/pythonClassesPractice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Fraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/pg29_selfcheck_practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/pythonClassesPractice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Fraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/algorithmAnalysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/pg29_selfcheck_practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/pythonClassesPractice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Fraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/algorithmAnalysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/pg29_selfcheck_practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/pythonClassesPractice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Fraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/algorithmAnalysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/pg29_selfcheck_practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/pythonClassesPractice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -683,7 +779,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Fraction.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
           <folding />
         </state>
@@ -691,7 +787,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/pg29_selfcheck_practice.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -699,28 +795,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/ListsPractice1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/ListsPractice1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33277312">
+        <state relative-caret-position="0">
           <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharmEdu20/system/python_stubs/-1442825926/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33277312">
-          <caret line="731" column="8" selection-start-line="731" selection-start-column="8" selection-end-line="731" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmEdu20/system/python_stubs/-1442825926/builtins.py" />
     <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Fraction.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="198">
           <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
           <folding />
         </state>
@@ -728,7 +818,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/pg29_selfcheck_practice.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
@@ -736,7 +826,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/pythonClassesPractice.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="486">
           <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding />
         </state>
@@ -744,8 +834,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/algorithmAnalysis.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39426523">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="162">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
           <folding />
         </state>
       </provider>
