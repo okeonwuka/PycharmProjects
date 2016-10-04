@@ -1,7 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4455db46-bf9b-41b9-a96a-71ecef52f00c" name="Default" comment="" />
+    <list default="true" id="4455db46-bf9b-41b9-a96a-71ecef52f00c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ProblemSolvingWithAlgorithmsAndDataStructures/anagramCheckingOff.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ProblemSolvingWithAlgorithmsAndDataStructures/anagramSort&amp;Compare.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ProblemSolvingWithAlgorithmsAndDataStructures/iterationFunctionTest_pg46&amp;47.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ProblemSolvingWithAlgorithmsAndDataStructures/minimumNumberOnList_O(n).py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ProblemSolvingWithAlgorithmsAndDataStructures/minimumNumberOnList_O(n^2).py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ProblemSolvingWithAlgorithmsAndDataStructures/recapOnFunctions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SpotfireAutomation/hello.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/PycharmProjects.iml" afterPath="$PROJECT_DIR$/../.idea/PycharmProjects.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/misc.xml" afterPath="$PROJECT_DIR$/../.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/modules.xml" afterPath="$PROJECT_DIR$/../.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/workspace.xml" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Horizons/PlotlyStreamingPythonAPI1.py" afterPath="$PROJECT_DIR$/../Horizons/PlotlyStreamingPythonAPI1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Horizons/PlotlyStreamingPythonAPI2.py" afterPath="$PROJECT_DIR$/../Horizons/PlotlyStreamingPythonAPI2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Horizons/plotlyHelp.py" afterPath="$PROJECT_DIR$/../Horizons/plotlyHelp.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Horizons/plotlyTest2.py" afterPath="$PROJECT_DIR$/../Horizons/plotlyTest2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Horizons/plotlytests.py" afterPath="$PROJECT_DIR$/../Horizons/plotlytests.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Horizons/plottest.py" afterPath="$PROJECT_DIR$/../Horizons/plottest.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Horizons/pythonPracticeDictionary.py" afterPath="$PROJECT_DIR$/../Horizons/pythonPracticeDictionary.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Horizons/pythonPracticeFuntions.py" afterPath="$PROJECT_DIR$/../Horizons/pythonPracticeFuntions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Horizons/pythonPracticeLambdaFunction.py" afterPath="$PROJECT_DIR$/../Horizons/pythonPracticeLambdaFunction.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Horizons/pythonPracticeList.py" afterPath="$PROJECT_DIR$/../Horizons/pythonPracticeList.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Horizons/pythonPracticeListComprehension.py" afterPath="$PROJECT_DIR$/../Horizons/pythonPracticeListComprehension.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Horizons/pythonPracticeLoopsEtAll.py" afterPath="$PROJECT_DIR$/../Horizons/pythonPracticeLoopsEtAll.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Horizons/pythonPracticeNumpyArrays.py" afterPath="$PROJECT_DIR$/../Horizons/pythonPracticeNumpyArrays.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Horizons/pythonPracticeStringManipulation.py" afterPath="$PROJECT_DIR$/../Horizons/pythonPracticeStringManipulation.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Horizons/temp-plot.html" afterPath="$PROJECT_DIR$/../Horizons/temp-plot.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ProblemSolvingWithAlgorithmsAndDataStructures/Fraction.py" afterPath="$PROJECT_DIR$/../ProblemSolvingWithAlgorithmsAndDataStructures/Fraction.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ProblemSolvingWithAlgorithmsAndDataStructures/ListsPractice1.py" afterPath="$PROJECT_DIR$/../ProblemSolvingWithAlgorithmsAndDataStructures/ListsPractice1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ProblemSolvingWithAlgorithmsAndDataStructures/controlStructurePractice.py" afterPath="$PROJECT_DIR$/../ProblemSolvingWithAlgorithmsAndDataStructures/controlStructurePractice.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ProblemSolvingWithAlgorithmsAndDataStructures/pg29_selfcheck_practice.py" afterPath="$PROJECT_DIR$/../ProblemSolvingWithAlgorithmsAndDataStructures/pg29_selfcheck_practice.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ProblemSolvingWithAlgorithmsAndDataStructures/pythonClassesPractice.py" afterPath="$PROJECT_DIR$/../ProblemSolvingWithAlgorithmsAndDataStructures/pythonClassesPractice.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/PythonIntroduction.iml" afterPath="$PROJECT_DIR$/.idea/PythonIntroduction.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/study_project.xml" afterPath="$PROJECT_DIR$/.idea/study_project.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson1/task1/hello_world.py" afterPath="$PROJECT_DIR$/lesson1/task1/hello_world.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson3/task3/string_indexing.py" afterPath="$PROJECT_DIR$/lesson3/task3/string_indexing.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_helper.py" afterPath="$PROJECT_DIR$/test_helper.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SpotfireAutomation/.idea/SpotfireAutomation.iml" afterPath="$PROJECT_DIR$/../SpotfireAutomation/.idea/SpotfireAutomation.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ThinkPython/do_twice.py" afterPath="$PROJECT_DIR$/../ThinkPython/do_twice.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ThinkPython/grid.py" afterPath="$PROJECT_DIR$/../ThinkPython/grid.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ThinkPython/grid2.py" afterPath="$PROJECT_DIR$/../ThinkPython/grid2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ThinkPython/grid3.py" afterPath="$PROJECT_DIR$/../ThinkPython/grid3.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ThinkPython/grid4.py" afterPath="$PROJECT_DIR$/../ThinkPython/grid4.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ThinkPython/grid5.py" afterPath="$PROJECT_DIR$/../ThinkPython/grid5.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ThinkPython/right_justify.py" afterPath="$PROJECT_DIR$/../ThinkPython/right_justify.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/allenDowneyPolygon1.py" afterPath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/allenDowneyPolygon1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/alphabet.py" afterPath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/alphabet.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/canvas.eps" afterPath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/canvas.eps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/conditionalsAndRecursion1.py" afterPath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/conditionalsAndRecursion1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/docStringTest.py" afterPath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/docStringTest.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/myCircleWithStackDiagramStatements.py" afterPath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/myCircleWithStackDiagramStatements.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/myStackDiagram.py" afterPath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/myStackDiagram.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/myarc.py" afterPath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/myarc.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/mycircle.py" afterPath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/mycircle.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/mycircle2.py" afterPath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/mycircle2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/mypolygon.py" afterPath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/mypolygon.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/mypolygon1.py" afterPath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/mypolygon1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/mysquare1a.py" afterPath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/mysquare1a.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/mysquare1b.py" afterPath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/mysquare1b.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/mysquare2.py" afterPath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/mysquare2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/polygon.py" afterPath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/polygon.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/polyline.py" afterPath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/polyline.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/turtleFlowers.py" afterPath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/turtleFlowers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/turtleFlowers2.py" afterPath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/turtleFlowers2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/turtlePies.py" afterPath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/turtlePies.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/turtlePies2.py" afterPath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/turtlePies2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/words.txt" afterPath="$PROJECT_DIR$/../ThinkPython/swampy-2.1.5/words.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ThinkPython/test1" afterPath="$PROJECT_DIR$/../ThinkPython/test1" />
+    </list>
     <ignored path="PythonIntroduction.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,7 +84,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -20,12 +92,12 @@
     <favorites_list name="PythonIntroduction" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="hello_world.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lesson1/task1/hello_world.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="access_variable.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lesson8/task2/access_variable.py">
           <provider selected="true" editor-type-id="StudyEditor">
-            <state vertical-scroll-proportion="0.030520646">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="323">
+              <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -40,20 +112,27 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/lesson1/task1/hello_world.py" />
+        <option value="$PROJECT_DIR$/lesson3/task3/string_indexing.py" />
+        <option value="$PROJECT_DIR$/lesson8/task1/class_definition.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
+    <option name="x" value="-1689" />
     <option name="y" value="-9" />
     <option name="width" value="1698" />
-    <option name="height" value="1020" />
+    <option name="height" value="1068" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -86,21 +165,17 @@
               <option name="myItemId" value="PythonIntroduction" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PythonIntroduction" />
-              <option name="myItemType" value="com.jetbrains.edu.learning.projectView.StudyDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Debugger" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Python.hello_world">
+  <component name="RunManager" selected="Python.negative_indexing">
     <configuration default="false" name="hello_world" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,6 +189,40 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonIntroduction" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson1/task1/hello_world.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="string_indexing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3/task3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonIntroduction" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson3/task3/string_indexing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="negative_indexing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3/task4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonIntroduction" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson3/task4/negative_indexing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -133,6 +242,31 @@
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonIntroduction" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ccruntests" factoryName="Run Study Tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonIntroduction" />
+      <option name="studyTest" value="" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Attests">
@@ -240,37 +374,43 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Python.hello_world" />
+      <item index="1" class="java.lang.String" itemvalue="Python.string_indexing" />
+      <item index="2" class="java.lang.String" itemvalue="Python.negative_indexing" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.hello_world" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.negative_indexing" />
+        <item index="1" class="java.lang.String" itemvalue="Python.string_indexing" />
+        <item index="2" class="java.lang.String" itemvalue="Python.hello_world" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1698" height="1020" extended-state="6" />
-    <editor active="true" />
+    <frame x="-1689" y="-9" width="1698" height="1068" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20418204" sideWeight="0.49322033" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Course Progress" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20418204" sideWeight="0.5067797" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Task Description" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2693727" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34004474" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20406905" sideWeight="0.49322033" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Task Description" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28791615" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22091782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32870865" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Course Progress" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20418204" sideWeight="0.5067797" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -293,8 +433,104 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lesson1/task1/hello_world.py">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state vertical-scroll-proportion="0.030520646">
+        <state relative-caret-position="0">
+          <caret line="0" column="32" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task1/hello_world.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="32" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task1/hello_world.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="32" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task1/hello_world.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="19">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson3/task8/character_escaping.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="57">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson3/task5/slicing.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="57">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson3/task4/negative_indexing.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="19">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson3/task3/string_indexing.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="19">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson8/task1/class_definition.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="114">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson6/task3/while_loop.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="209">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson4/task7/in_keyword.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="114">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson4/task1/lists.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="57">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson8/task2/access_variable.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="323">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="39" />
           <folding />
         </state>
       </provider>
