@@ -7,6 +7,7 @@
   <component name="ChangeListManager">
     <list id="00b287ad-9f8f-482c-a739-19fbd003d3d8" name="Default" comment="third test aggggaaaiinn&#10;" />
     <list default="true" id="f6c921dc-77ef-4f20-a206-bcb7699ecffb" name="Failed commit: Default" comment="Created chapter directories for Problem solving with Algorithms and Data Structures">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Horizons/PlotlyStreamingPythonAPI1.py" afterPath="$PROJECT_DIR$/Horizons/PlotlyStreamingPythonAPI1.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Horizons/PlotlyStreamingPythonAPI2.py" afterPath="$PROJECT_DIR$/Horizons/PlotlyStreamingPythonAPI2.py" />
@@ -82,7 +83,18 @@
     <favorites_list name="PycharmProjects" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="Countwords_function_final.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/UdacityMLENanodegree/ReadinessAssessment/Countwords_function_final.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -175,7 +187,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -207,9 +218,14 @@
               <option name="myItemId" value="UdacityMLENanodegree" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ReadinessAssessment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -252,7 +268,7 @@
       <recent name="C:\Users\oonwuka\PycharmProjects\ProblemSolvingWithAlgorithmsAndDataStructures\Chapter_3_BasicDataStructures" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Countwords_function">
+  <component name="RunManager" selected="Python.classPractice">
     <configuration default="false" name="1.1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -317,6 +333,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PycharmProjects" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UdacityMLENanodegree/ReadinessAssessment/sandbox.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="classPractice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Chapter_1_Introduction" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Chapter_1_Introduction/classPractice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -485,19 +518,21 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <list size="5">
+    <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.Countwords_function" />
       <item index="1" class="java.lang.String" itemvalue="Python.1.1" />
       <item index="2" class="java.lang.String" itemvalue="Python.1.2" />
       <item index="3" class="java.lang.String" itemvalue="Python.LinkedList" />
       <item index="4" class="java.lang.String" itemvalue="Python.sandbox" />
+      <item index="5" class="java.lang.String" itemvalue="Python.classPractice" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.sandbox" />
-        <item index="1" class="java.lang.String" itemvalue="Python.LinkedList" />
-        <item index="2" class="java.lang.String" itemvalue="Python.1.2" />
-        <item index="3" class="java.lang.String" itemvalue="Python.1.1" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.classPractice" />
+        <item index="1" class="java.lang.String" itemvalue="Python.sandbox" />
+        <item index="2" class="java.lang.String" itemvalue="Python.LinkedList" />
+        <item index="3" class="java.lang.String" itemvalue="Python.1.2" />
+        <item index="4" class="java.lang.String" itemvalue="Python.1.1" />
       </list>
     </recent_temporary>
   </component>
@@ -509,9 +544,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1698" height="1030" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24227741" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19200484" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32134292" sideWeight="0.49000606" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2895981" sideWeight="0.5089431" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -520,7 +555,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2769784" sideWeight="0.49105692" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27662036" sideWeight="0.49105692" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39583334" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -738,13 +773,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Chapter_1_Introduction/controlStructurePractice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Chapter_3_BasicDataStructures/Queue.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -787,13 +815,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Chapter_1_Introduction/pythonClassesPractice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Chapter_2_AlgorithmAnalysis/minimumNumberOnList_O(n).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -833,13 +854,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="67">
           <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Chapter_1_Introduction/pg29_selfcheck_practice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="556">
-          <caret line="68" column="33" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -899,31 +913,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UdacityMLENanodegree/ReadinessAssessment/Countwords_function_final.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ThinkPython/swampy-2.1.5/allenDowneyPolygon1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Chapter_1_Introduction/ListsPractice1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Chapter_1_Introduction/classPractice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -945,6 +938,49 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Chapter_1_Introduction/classPractice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Chapter_1_Introduction/controlStructurePractice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Chapter_1_Introduction/ListsPractice1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Chapter_1_Introduction/pg29_selfcheck_practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="68" column="33" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Chapter_1_Introduction/pythonClassesPractice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdacityMLENanodegree/ReadinessAssessment/Countwords_function_final.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
