@@ -4,9 +4,19 @@
     <option name="SCOPE_TYPE" value="8" />
     <option name="CUSTOM_SCOPE_NAME" value="Open Files" />
   </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/UdacityMLENanodegree/Outlier_Calculator.py" line="4" />
+  </component>
   <component name="ChangeListManager">
     <list id="00b287ad-9f8f-482c-a739-19fbd003d3d8" name="Default" comment="third test aggggaaaiinn&#10;" />
     <list default="true" id="f6c921dc-77ef-4f20-a206-bcb7699ecffb" name="Failed commit: Default" comment="Created chapter directories for Problem solving with Algorithms and Data Structures">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UdacityMLENanodegree/Median_Calculator.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/UdacityMLENanodegree2/machine-learning-master/projects/data_library_tests/Jupyter Notebook practice.ipynb" afterPath="$PROJECT_DIR$/UdacityMLENanodegree2/machine-learning-master/Notes/data_library_tests/Jupyter Notebook practice.ipynb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/UdacityMLENanodegree2/machine-learning-master/projects/data_library_tests/Jupyter Notebook practice2.ipynb" afterPath="$PROJECT_DIR$/UdacityMLENanodegree2/machine-learning-master/Notes/data_library_tests/Jupyter Notebook practice2.ipynb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/UdacityMLENanodegree2/machine-learning-master/projects/data_library_tests/numpy practice.py" afterPath="$PROJECT_DIR$/UdacityMLENanodegree2/machine-learning-master/Notes/data_library_tests/numpy practice.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/UdacityMLENanodegree2/machine-learning-master/projects/data_library_tests/pandas practice.py" afterPath="$PROJECT_DIR$/UdacityMLENanodegree2/machine-learning-master/Notes/data_library_tests/pandas practice.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/UdacityMLENanodegree2/machine-learning-master/projects/data_library_tests/pandas-numpy_practice.ipynb" afterPath="$PROJECT_DIR$/UdacityMLENanodegree2/machine-learning-master/Notes/data_library_tests/pandas-numpy_practice.ipynb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/UdacityMLENanodegree2/machine-learning-master/projects/data_library_tests/pandas_dataframe_practice.ipynb" afterPath="$PROJECT_DIR$/UdacityMLENanodegree2/machine-learning-master/Notes/data_library_tests/pandas_dataframe_practice.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Horizons/PlotlyStreamingPythonAPI1.py" afterPath="$PROJECT_DIR$/Horizons/PlotlyStreamingPythonAPI1.py" />
@@ -24,7 +34,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Horizons/pythonPracticeNumpyArrays.py" afterPath="$PROJECT_DIR$/Horizons/pythonPracticeNumpyArrays.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Horizons/pythonPracticeStringManipulation.py" afterPath="$PROJECT_DIR$/Horizons/pythonPracticeStringManipulation.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Horizons/temp-plot.html" afterPath="$PROJECT_DIR$/Horizons/temp-plot.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PythonIntroduction/.idea/workspace.xml" afterPath="$PROJECT_DIR$/PythonIntroduction/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PythonIntroduction/lesson1/task1/hello_world.py" afterPath="$PROJECT_DIR$/PythonIntroduction/lesson1/task1/hello_world.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PythonIntroduction/test_helper.py" afterPath="$PROJECT_DIR$/PythonIntroduction/test_helper.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThinkPython/do_twice.py" afterPath="$PROJECT_DIR$/ThinkPython/do_twice.py" />
@@ -84,7 +93,84 @@
     <favorites_list name="PycharmProjects" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="sandbox1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UdacityMLENanodegree2/machine-learning-master/projects/titanic_survival_exploration/sandbox1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="572">
+              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="27" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Median_Calculator.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UdacityMLENanodegree/Median_Calculator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pandas-numpy_practice.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/UdacityMLENanodegree2/machine-learning-master/Notes/data_library_tests/pandas-numpy_practice.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Jupyter Notebook practice.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UdacityMLENanodegree2/machine-learning-master/Notes/data_library_tests/Jupyter Notebook practice.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pandas practice.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UdacityMLENanodegree2/machine-learning-master/Notes/data_library_tests/pandas practice.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="numpy practice.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UdacityMLENanodegree2/machine-learning-master/Notes/data_library_tests/numpy practice.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="numpy_practice.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UdacityMLENanodegree2/machine-learning-master/projects/titanic_survival_exploration/numpy_practice.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pandas_dataframe_practice.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UdacityMLENanodegree2/machine-learning-master/Notes/data_library_tests/pandas_dataframe_practice.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -124,14 +210,19 @@
         <option value="$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Chapter_2_AlgorithmAnalysis/anagramPersonalCode.py" />
         <option value="$PROJECT_DIR$/UdacityMLENanodegree/ReadinessAssessment/sandbox.py" />
         <option value="$PROJECT_DIR$/UdacityMLENanodegree/ReadinessAssessment/Countwords_function.py" />
+        <option value="$PROJECT_DIR$/UdacityMLENanodegree/Outlier_Calculator.py" />
+        <option value="$PROJECT_DIR$/UdacityMLENanodegree/Median_Calculator.py" />
+        <option value="$PROJECT_DIR$/UdacityMLENanodegree2/machine-learning-master/projects/titanic_survival_exploration/numpy_practice.ipynb" />
+        <option value="$PROJECT_DIR$/UdacityMLENanodegree2/machine-learning-master/Notes/data_library_tests/Jupyter Notebook practice.ipynb" />
+        <option value="$PROJECT_DIR$/UdacityMLENanodegree2/machine-learning-master/Notes/data_library_tests/numpy practice.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-9" />
     <option name="y" value="-9" />
-    <option name="width" value="1698" />
-    <option name="height" value="1030" />
+    <option name="width" value="1938" />
+    <option name="height" value="1060" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -177,6 +268,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -185,14 +277,103 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UdacityMLENanodegree2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="machine-learning-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UdacityMLENanodegree2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="machine-learning-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Notes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UdacityMLENanodegree2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="machine-learning-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Notes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data_library_tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UdacityMLENanodegree2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="pyconsole" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.28085443" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="160" />
@@ -225,29 +406,14 @@
       <recent name="C:\Users\oonwuka\PycharmProjects\UdacityMLENanodegree\ReadinessAssessment" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\oonwuka\PycharmProjects\UdacityMLENanodegree2\machine-learning-master\Notes" />
+      <recent name="C:\Users\oonwuka\PycharmProjects\UdacityMLENanodegree" />
       <recent name="C:\Users\oonwuka\PycharmProjects\ProblemSolvingWithAlgorithmsAndDataStructures\Chapter_2_AlgorithmAnalysis" />
       <recent name="C:\Users\oonwuka\PycharmProjects\ProblemSolvingWithAlgorithmsAndDataStructures\Chapter_1_Introduction" />
       <recent name="C:\Users\oonwuka\PycharmProjects\ProblemSolvingWithAlgorithmsAndDataStructures\Chapter_3_BasicDataStructures" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Countwords_function_final">
-    <configuration default="false" name="1.2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingInterview" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PycharmProjects" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingInterview/1.2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Median_Calculator">
     <configuration default="false" name="LinkedList" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -312,6 +478,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PycharmProjects" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UdacityMLENanodegree/ReadinessAssessment/Countwords_function_final.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Median_Calculator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UdacityMLENanodegree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UdacityMLENanodegree/Median_Calculator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -463,6 +646,23 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
+    <configuration default="false" name="Outlier_Calculator" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UdacityMLENanodegree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UdacityMLENanodegree/Outlier_Calculator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
     <configuration default="false" name="Countwords_function" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -480,21 +680,22 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <list size="6">
-      <item index="0" class="java.lang.String" itemvalue="Python.Countwords_function" />
-      <item index="1" class="java.lang.String" itemvalue="Python.1.2" />
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="Python.Outlier_Calculator" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Countwords_function" />
       <item index="2" class="java.lang.String" itemvalue="Python.LinkedList" />
       <item index="3" class="java.lang.String" itemvalue="Python.sandbox" />
       <item index="4" class="java.lang.String" itemvalue="Python.classPractice" />
       <item index="5" class="java.lang.String" itemvalue="Python.Countwords_function_final" />
+      <item index="6" class="java.lang.String" itemvalue="Python.Median_Calculator" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Countwords_function_final" />
-        <item index="1" class="java.lang.String" itemvalue="Python.classPractice" />
-        <item index="2" class="java.lang.String" itemvalue="Python.sandbox" />
-        <item index="3" class="java.lang.String" itemvalue="Python.LinkedList" />
-        <item index="4" class="java.lang.String" itemvalue="Python.1.2" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Median_Calculator" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Countwords_function_final" />
+        <item index="2" class="java.lang.String" itemvalue="Python.classPractice" />
+        <item index="3" class="java.lang.String" itemvalue="Python.sandbox" />
+        <item index="4" class="java.lang.String" itemvalue="Python.LinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -505,25 +706,25 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1698" height="1030" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31859478" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32134292" sideWeight="0.49000606" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2895981" sideWeight="0.5089431" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23744051" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32101616" sideWeight="0.49000606" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27251732" sideWeight="0.5112053" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32764506" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27458033" sideWeight="0.49105692" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27314815" sideWeight="0.48879468" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39583334" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30215827" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30138567" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -611,83 +812,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Chapter_1_Introduction/pg29_selfcheck_practice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Chapter_1_Introduction/pythonClassesPractice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Chapter_1_Introduction/Fraction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Chapter_2_AlgorithmAnalysis/algorithmAnalysis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Chapter_1_Introduction/pg29_selfcheck_practice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Chapter_1_Introduction/pythonClassesPractice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Chapter_1_Introduction/Fraction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Chapter_2_AlgorithmAnalysis/algorithmAnalysis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Chapter_1_Introduction/pg29_selfcheck_practice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Chapter_1_Introduction/pythonClassesPractice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Chapter_1_Introduction/Fraction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Chapter_1_Introduction/pg29_selfcheck_practice.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -906,13 +1030,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UdacityMLENanodegree/ReadinessAssessment/Countwords_function.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="49" column="16" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Chapter_2_AlgorithmAnalysis/minimumNumberOnList_O(n^2).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -934,20 +1051,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Chapter_1_Introduction/ListsPractice1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Chapter_1_Introduction/pg29_selfcheck_practice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1496">
-          <caret line="68" column="33" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Chapter_1_Introduction/pythonClassesPractice.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
@@ -955,11 +1058,114 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/UdacityMLENanodegree/Outlier_Calculator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="61" column="57" selection-start-line="61" selection-start-column="57" selection-end-line="61" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/UdacityMLENanodegree/ReadinessAssessment/Countwords_function_final.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="651">
-          <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+        <state relative-caret-position="-330">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdacityMLENanodegree/ReadinessAssessment/Countwords_function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Chapter_1_Introduction/pg29_selfcheck_practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python35/Lib/urllib/parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="698" column="0" selection-start-line="698" selection-start-column="0" selection-end-line="698" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProblemSolvingWithAlgorithmsAndDataStructures/Chapter_1_Introduction/ListsPractice1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdacityMLENanodegree/Median_Calculator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdacityMLENanodegree2/machine-learning-master/projects/titanic_survival_exploration/titanic_survival_exploration-Copy1.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdacityMLENanodegree2/machine-learning-master/projects/titanic_survival_exploration/sandbox1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="27" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdacityMLENanodegree2/machine-learning-master/projects/titanic_survival_exploration/numpy_practice.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdacityMLENanodegree2/machine-learning-master/Notes/data_library_tests/pandas_dataframe_practice.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="-1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdacityMLENanodegree2/machine-learning-master/Notes/data_library_tests/numpy practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdacityMLENanodegree2/machine-learning-master/Notes/data_library_tests/Jupyter Notebook practice.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdacityMLENanodegree2/machine-learning-master/Notes/data_library_tests/pandas practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UdacityMLENanodegree2/machine-learning-master/Notes/data_library_tests/pandas-numpy_practice.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="-1" />
         </state>
       </provider>
     </entry>
