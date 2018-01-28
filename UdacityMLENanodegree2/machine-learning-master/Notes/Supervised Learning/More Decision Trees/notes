@@ -1,0 +1,5 @@
+1. sklearn.tree.DecisionTreeClassier:- Some parameters to this classifier/algorithm
+are min_samples_split: this is the minimum no of samples needed at a node
+for it to be further split. Default number is 2 samples. This would give a
+'very fine' tree in danger of overfitting. Higher numbers give a coarse tree.
+
